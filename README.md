@@ -142,7 +142,18 @@ fecha: 12/10/2022
     <input type="month" id="fecha5" name="fecha5"><br><br>
 
     <hr>
-    
+     <h2>Input de archivo</h2><br>
+    <input type="file" id="archivo1" name="archivo" multiple><br><br>
+
+    <input type="file" id="archivo1" name="archivo" multiple size="6mb"><br><br>
+
+    <h2>Input de color</h2><br>
+    <input type="color" id="color1" name="color1"><br><br>
+
+    <h2>Input de Rango</h2><br>
+    <label for="vol">volumen (entre 0 y 50):</label><br>
+    <input type="range" id="vol" name="vol" min="0" max="50"><br>
+
     
     
     
