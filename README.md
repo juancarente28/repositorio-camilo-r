@@ -109,6 +109,17 @@ fecha: 12/10/2022
     <label for="bbq">bbq</label>
     <br><br>
     
+     <h2>select</h2>
+    <label for="hamburguesas">Disponibles</label>
+    <select id="hamburguesas" name="hamburguesas">
+        <option value="queso">queso</option>
+        <option value="doble queso">doble queso</option>
+        <option value="ranchera">ranchera</option>
+        <option value="grande">grande</option>
+        <option value="grande doble queso">grande doblequeso</option>
+    </select> 
+    <br><br>
+    
     
    
     
