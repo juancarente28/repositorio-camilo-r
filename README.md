@@ -11,3 +11,9 @@ fecha: 12/10/2022
     <title>Primer pagina web</title>
 </head>
 <body>
+   <h2>titulos y subtitulos</h2>
+    <h1>tamaño 1</h1>
+    <h2>tamaño 2</h2>
+    <h3>tamaño 3</h3>
+    <h4>tamaño 4</h4>
+    <h5>tamaño 5</h5>
