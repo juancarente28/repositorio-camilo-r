@@ -20,7 +20,11 @@ fecha: 12/10/2022
     <h6>tamaño 6</h6><br>
 
     <h2>Parrafo</h2>
-    <p>Este es mi primer trabajo de html, este es mi primer trabajo de html,
-    este es mi primer trabajo de html, este es mi primer trabajo de html,
-    este es mi primer trabajo de html, este es mi primer trabajo de html,
-    este es mi primer trabajo de html, este es mi primer trabajo de html,</p>
+    <p>Este es mi primer parrafo en html, este es mi primer parrafo en html,
+    este es mi primer parrafo en html, este es mi primer parrafo html,
+    este es mi primer parrafo html,<br> este es mi primer parrafo en html,
+    este es mi primer parrafo en de html, este es mi primer parrafo en html,</p>
+
+    <p>Este es mi segundo parrafo en html, este es mi segundo parrafo en html
+     este es mi segundo parrafo en html, este es mi segundo parrafo en html
+     este es mi segundo parrafo en html,</p>
