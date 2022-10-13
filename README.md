@@ -6,7 +6,7 @@ fecha: 12/10/2022
 <html lang="es">
 <head>
    <meta charset="utf-8" />
-    <meta http-equiv="x-UA-cmpatible" content="IE=edge">
+    <meta http-equiv="x-UA-compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Primer pagina web</title>
 </head>
