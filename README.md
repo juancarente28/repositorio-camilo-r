@@ -17,3 +17,10 @@ fecha: 12/10/2022
     <h3>tamaño 3</h3>
     <h4>tamaño 4</h4>
     <h5>tamaño 5</h5>
+    <h6>tamaño 6</h6><br>
+
+    <h2>Parrafo</h2>
+    <p>Este es mi primer trabajo de html, este es mi primer trabajo de html,
+    este es mi primer trabajo de html, este es mi primer trabajo de html,
+    este es mi primer trabajo de html, este es mi primer trabajo de html,
+    este es mi primer trabajo de html, este es mi primer trabajo de html,</p>
