@@ -120,6 +120,35 @@ fecha: 12/10/2022
     </select> 
     <br><br>
     
+     <h2>select con Imput</h2>
+    <label for="bebidas">Elige tu bebida</label><br>
+    <Input list="bebidas">
+    <datalist id="bebidas">
+        <option value="uva">
+        <option value="cuatro">    
+        <option value="coca-cola">
+        <option value="manzana">
+        <option value="naranja">
+        <option value="lionada">
+        <option value="uva">        
+    </datalist>    
+    <br><br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
    
     
