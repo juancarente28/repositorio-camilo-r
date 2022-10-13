@@ -134,6 +134,15 @@ fecha: 12/10/2022
     </datalist>    
     <br><br>
     
+    <h2>Input de Fecha</h2><br>
+    <input type="date" id="fecha1" name="fecha1"><br>
+    <input type="datetime-local" id="fecha2" name="fecha2"><br>
+    <input type="week" id="fecha3" name="fecha3"><br>
+    <input type="time" name="fecha4" id="fecha4"><br>
+    <input type="month" id="fecha5" name="fecha5"><br><br>
+
+    <hr>
+    
     
     
     
