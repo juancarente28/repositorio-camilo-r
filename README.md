@@ -95,7 +95,46 @@ fecha: 12/10/2022
     <input type="checkbox" id="topping2" name="topping2" value="nuez">
     <label for="topping2">nuez</label><br>
     <input type="checkbox" id="topping3" name="topping3" value="fresas">
-    <label for="topping3">fresas</label><br>
+    <label for="topping3">fresas</label>
+    <br><br>
+    
+     <h2>imput de selección única</h2>
+    <input type="radio" id="roja" name="salsas" value="roja">
+    <label for="roja">roja</label><br>
+    <input type="radio" id="maiz" name="salsas" value="maiz">
+    <label for="maiz">maiz</label><br>
+    <input type="radio" id="humo" name="salsas" value="humo">
+    <label for="humo">humo</label><br>
+    <input type="radio" id="bbq" name="salsas" value="bbq">
+    <label for="bbq">bbq</label>
+    <br><br>
+    
+    
    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
