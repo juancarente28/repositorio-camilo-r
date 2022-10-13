@@ -87,7 +87,15 @@ fecha: 12/10/2022
         <dt>mosquera</dl>
             <dd>bueno por arriba y veloz</dd>
     </dl>
-    <br><br><br>
+    <br><br>
+    
+     <h2>imput de selección multiple</h2>
+    <input type="checkbox" id="topping1" name="topping1" value="chispas">
+    <label for="topping1">chispas de chocolate</label><br>
+    <input type="checkbox" id="topping2" name="topping2" value="nuez">
+    <label for="topping2">nuez</label><br>
+    <input type="checkbox" id="topping3" name="topping3" value="fresas">
+    <label for="topping3">fresas</label><br>
    
     
     
