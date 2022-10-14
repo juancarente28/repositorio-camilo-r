@@ -153,8 +153,26 @@ fecha: 12/10/2022
     <h2>Input de Rango</h2><br>
     <label for="vol">volumen (entre 0 y 50):</label><br>
     <input type="range" id="vol" name="vol" min="0" max="50"><br>
-
     
+    <hr>
+
+    <h2>Input de botón</h2><br>
+    <input type="reset"><br>
+    <input type="submit"><br>
+    <input type="button" id="boton1" name="boton1" value="Botón 1" onclick="alert(Bienvenido);"><br><br>
+
+    <hr>
+    <h1>Formularios</h1>
+    <h2>Ejemplo de formularios</h2>
+    <form action="accion.js" id="form1" method="post">
+        <label for="nombre">nombre:</label>
+        <input type="text" id="nombre" name="nombre"><br><br>
+        <label for="apellido">apellido:</label>
+    <input type="text" id="apellido" name="apellido" form="form1"><br><br>
+        <input type="submit">
+        <input type="reset"><br><br>
+
+ </html>   
     
     
     
